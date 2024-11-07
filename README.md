@@ -19,7 +19,7 @@ Avant de commencer, assurez-vous de disposer des éléments suivants :
 ### 1. Préparation et Vérification des Microservices
 1. Clonez le dépôt du projet initial :
     ```bash
-    git clone https://github.com/votre-repo/ms-arch-TP1.git
+    git clone https://github.com/elm-dak/App_microservices.git
     ```
 2. Lancez chaque microservice localement pour valider leur bon fonctionnement sous Eureka :
     ```bash
